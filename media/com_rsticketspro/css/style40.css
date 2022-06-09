@@ -1,0 +1,32 @@
+.icon-rsticketspro::before,
+.fa-rsticketspro::before {
+	content: "\f590";
+}
+
+.dashboard-button > a {
+	text-decoration: none;
+}
+
+.pull-left {
+	float: left;
+}
+
+.pull-right {
+	float: right;
+}
+
+#ticket-info.card,
+#ticket-time.card,
+#ticket-submitter.card,
+#ticket-history.card {
+	margin-bottom: 2%;
+}
+
+.rst_button_delete_ticket {
+	text-decoration: none !important;
+}
+
+.hidden {
+	display: none;
+	visibility: hidden;
+}

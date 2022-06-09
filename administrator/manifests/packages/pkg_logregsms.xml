@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="4.0" method="upgrade">
+    <name>لاگین و ثبت نام پیامکی جوملا - جومینا مارکت</name>
+    <creationDate>11 October 2019</creationDate>
+	<author>JoominaMarket.Com</author>
+	<authorEmail>miri.mohamadhosein@gmail.com</authorEmail>
+	<authorUrl>http://www.joominamarket.com</authorUrl>
+    <copyright>JoominaMarket Team</copyright>
+    <packagename>logregsms</packagename>
+    <version>2.0</version>
+    <license>JoominaMarket</license>
+    <url>http://www.joominamarket.com</url>
+    <packager>جومینا مارکت</packager>
+    <packagerurl>http://www.joominamarket.com</packagerurl>
+   
+	 <description></description>
+    <files>
+        <file type="component" id="com_logregsms" client="site">com_logregsms.zip</file>
+        <file type="plugin" id="bandjoomlalogreg">bandjoomlalogreg.zip</file>
+        <file type="plugin" id="changeusernamelogreg">changeusernamelogreg.zip</file>
+        <file type="module" id="mod_logreg" client="site">mod_logreg.zip</file>
+    </files>
+	
+    <updateservers>
+        <server type="extension" priority="1" name="بروزرسانی سیستم لاگین و ثبت نام پیامکی جومینا مارکت">http://joominamarket.com/updates/package/pkg_logregsms.xml</server>
+    </updateservers>
+    <scriptfile>script.pkg.logregsms.php</scriptfile>
+</extension>

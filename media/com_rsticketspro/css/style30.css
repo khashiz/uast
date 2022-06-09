@@ -1,0 +1,16 @@
+/* This is only used for the 'No matching results' alert */
+.alert.alert-info > .sr-only {
+	display: none;
+}
+
+.icon-rsticketspro::before {
+	content: "\46";
+}
+
+#bulk_actions > div {
+	display: inline;
+}
+
+#rsticketspro_dashboard_search .btn-group {
+	font-size: inherit;
+}

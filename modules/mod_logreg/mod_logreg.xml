@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension
+	type="module"
+	version="4.0"
+	client="site"
+	method="upgrade">
+	<name> ماژول نمایش ثبت نام و لاگین پیامکی </name>
+	<description></description>
+	<creationDate>مرداد 1397</creationDate>
+	<author>تیم برنامه نویسی جومینا مارکت (joominamarket)</author>
+	<authorEmail>miri.mohamadhosein@gmail.com</authorEmail>
+	<authorUrl>www.joominamarket.com</authorUrl>
+	<copyright>توسعه و برنامه نویسی توسط گروه طراحان وب جومینا مارکت</copyright>
+	<license>GPL License</license>
+	<version>2.0</version>	
+	<files>
+		<filename module="mod_logreg">mod_logreg.php</filename>
+		<filename>index.html</filename>
+		<folder>tmpl</folder>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic" >
+                
+ 			</fieldset>
+		</fields>
+	</config>
+</extension>

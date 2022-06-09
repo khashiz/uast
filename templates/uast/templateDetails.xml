@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="template" client="site">
+	<name>uast</name>
+	<version>1.0</version>
+	<creationDate>May 2022</creationDate>
+	<author>Khashayar Pouradabi</author>
+	<authorEmail>office@netparsi.com</authorEmail>
+	<copyright>(C) 2017 Open Source Matters, Inc.</copyright>
+	<files>
+		<filename>component.php</filename>
+		<filename>error.php</filename>
+		<filename>index.php</filename>
+		<filename>offline.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>css</folder>
+		<folder>img</folder>
+		<folder>js</folder>
+		<folder>font</folder>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="presetcolor" type="color" label="NTP_PRESET_COLOR" />
+			</fieldset>
+			<fieldset name="CONTACT">
+				<field name="email" type="text" label="NTP_EMAIL" />
+				<field name="phone" type="textarea" label="NTP_PHONE" />
+				<field name="fax" type="textarea" label="NTP_FAX" />
+				<field name="address" type="textarea" label="NTP_ADDRESS" />
+				<field name="lat" type="text" label="NTP_LAT" />
+				<field name="lng" type="text" label="NTP_LNG" />
+				<field name="socials" type="subform" label="NTP_SOCIAL_ACCOUNTS" multiple="true" min="1" max="10">
+					<form>
+						<field name="icon" class="width-100" type="text" label="NTP_ICON" />
+						<field name="link" type="text" label="NTP_URL" />
+						<field name="title" type="text" label="NTP_TITLE" />
+					</form>
+				</field>
+			</fieldset>
+			<fieldset name="SMSPANEL">
+				<field name="sms_un" type="text" label="NTP_SMS_USERNAME" />
+				<field name="sms_pw" type="password" label="NTP_SMS_PASSWORD" />
+			</fieldset>
+		</fields>
+	</config>
+</extension>

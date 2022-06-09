@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="system" method="upgrade">
+        <name>plg_system_fnum</name>
+        <author>Khashayar Pouradabi</author>
+        <creationDate>June 2022</creationDate>
+        <copyright>NetParsi</copyright>
+        <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+        <authorEmail>office@netparsi.com</authorEmail>
+        <authorUrl>https://netparsi.com</authorUrl>
+        <version>3.0.0</version>
+        <description>Converting English Numbers to Persian</description>
+        <files>
+                <filename plugin="fnum">fnum.php</filename>
+        </files>
+</extension>

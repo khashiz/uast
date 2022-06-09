@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="RST_DASHBOARD_DEFAULT_LAYOUT">
+		<message>
+			<![CDATA[RST_DASHBOARD_DESC]]>
+		</message>
+	</layout>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field filter="raw" name="submit_ticket_desc" rows="7" cols="45" type="textarea" translate_default="true" default="RST_SUBMIT_TICKET_DEFAULTTEXT" label="RST_SUBMIT_TICKET_SMALLTEXT" description="RST_SUBMIT_TICKET_SMALLTEXT_DESC" />
+				<field filter="raw" name="view_tickets_desc" rows="7" cols="45" type="textarea" translate_default="true" default="RST_VIEW_TICKETS_DEFAULTTEXT" label="RST_VIEW_TICKETS_SMALLTEXT" description="RST_VIEW_TICKETS_SMALLTEXT_DESC" />
+				<field filter="raw" name="search_tickets_desc" rows="7" cols="45" type="textarea" translate_default="true" default="RST_SEARCH_TICKETS_DEFAULTTEXT" label="RST_SEARCH_TICKETS_SMALLTEXT" description="RST_SEARCH_TICKETS_SMALLTEXT_DESC" />
+				<field name="kb_itemid" type="text" default="" label="RST_DASHBOARD_KB_ITEMID" description="RST_DASHBOARD_KB_ITEMID_DESC" />
+				<field name="show_kb" type="list" default="1" label="RST_SHOW_KB_DASHBOARD" description="RST_SHOW_KB_DASHBOARD_DESC">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="show_tickets" type="list" default="1" label="RST_SHOW_TICKETS_DASHBOARD" description="RST_SHOW_TICKETS_DASHBOARD_DESC">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="tickets_limit" type="text" default="3" label="RST_DASHBOARD_TICKETS_LIMIT" description="RST_DASHBOARD_TICKETS_LIMIT_DESC" />
+			</fieldset>
+		</fields>
+	</config>
+</metadata>

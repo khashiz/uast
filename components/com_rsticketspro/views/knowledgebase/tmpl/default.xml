@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="RST_KB_DEFAULT_LAYOUT">
+		<message>
+			<![CDATA[RST_KNOWLEDGEBASE_MENU_DESC]]>
+		</message>
+	</layout>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="order_by" type="list" default="1" label="RST_KB_CONTENT_ORDER_BY" description="RST_KB_CONTENT_ORDER_BY_DESC">
+					<option value="ordering">RST_DEFAULT</option>
+					<option value="hits">RST_KB_HITS</option>
+					<option value="created">RST_KB_CREATED</option>
+					<option value="modified">RST_KB_MODIFIED</option>
+					<option value="name">RST_KB_ARTICLE_NAME</option>
+				</field>
+				<field name="order_dir" type="list" default="ASC" label="RST_KB_CONTENT_ORDER_DIR" description="RST_KB_CONTENT_ORDER_DIR_DESC">
+					<option value="ASC">RST_ASC</option>
+					<option value="DESC">RST_DESC</option>
+				</field>
+				<field name="show_description" type="radio" class="btn-group btn-group-yesno" default="1" label="RST_KB_CATEGORY_DESCRIPTION" description="RST_KB_CATEGORY_DESCRIPTION_DESC">
+					<option value="1">RST_SHOW</option>
+					<option value="0">RST_HIDE</option>
+				</field>
+				<field name="filter" type="radio" class="btn-group btn-group-yesno" default="1" label="RST_FILTER" description="RST_FILTER_DESC">
+					<option value="1">RST_SHOW</option>
+					<option value="0">RST_HIDE</option>
+				</field>
+				<field name="show_headings" type="radio" class="btn-group btn-group-yesno" default="1" label="RST_SHOW_HEADINGS" description="RST_SHOW_HEADINGS_DESC">
+					<option value="1">RST_SHOW</option>
+					<option value="0">RST_HIDE</option>
+				</field>
+				<field name="show_hits" type="radio" class="btn-group btn-group-yesno" default="0" label="RST_SHOW_HITS" description="RST_SHOW_HITS_DESC">
+					<option value="1">RST_SHOW</option>
+					<option value="0">RST_HIDE</option>
+				</field>
+				<field name="show_pagination" type="radio" class="btn-group btn-group-yesno" default="1" label="RST_SHOW_PAGINATION" description="RST_SHOW_PAGINATION_DESC">
+					<option value="1">RST_SHOW</option>
+					<option value="0">RST_HIDE</option>
+				</field>
+				<field name="show_pagination_limit" type="radio" class="btn-group btn-group-yesno" default="1" label="RST_SHOW_PAGINATION_LIMIT" description="RST_SHOW_PAGINATION_LIMIT_DESC">
+					<option value="1">RST_SHOW</option>
+					<option value="0">RST_HIDE</option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+</metadata>

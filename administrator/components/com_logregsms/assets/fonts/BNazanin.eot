@@ -1,0 +1,629 @@
+e name="High" translation="VysokÃ©" />
+      <value name="Low" translation="NÃ­zke" />
+      <value name="Medium" translation="StrednÃ©" />
+    </setting>
+    <setting name="Resolution" translation="RozlÃ­Å¡enie" />
+    <setting name="Shaders" translation="TieÅˆovaÄe">
+      <value name="High" translation="VysokÃ©" />
+      <value name="Low" translation="NÃ­zke" />
+      <value name="Medium" translation="StrednÃ©" />
+    </setting>
+    <setting name="Texture Filter" translation="Filter textÃºry">
+      <value name="High" translation="VysokÃ½" />
+      <value name="Low" translation="NÃ­zky" />
+      <value name="Medium" translation="StrednÃ½" />
+    </setting>
+    <setting name="Texture Quality" translation="Kvalita textÃºry">
+      <value name="High" translation="VysokÃ¡" />
+      <value name="Low" translation="NÃ­zka" />
+      <value name="Medium" translation="StrednÃ¡" />
+    </setting>
+  </language>
+  <language name="sl_SI" translation="">
+    <setting name="Characters" translation="Osebe">
+      <value name="Few" translation="Malo" />
+      <value name="Many" translation="Å tevilni" />
+      <value name="Normal" translation="Normalni" />
+    </setting>
+    <setting name="Display Mode" translation="Zaslonski naÄin">
+      <value name="Full-screen" translation="Celoten zaslon" />
+      <value name="Windowed" translation="V oknu" />
+    </setting>
+    <setting name="Dynamic Shadows" translation="DinamiÄne sence">
+      <value name="Off" translation="Izklop" />
+      <value name="On" translation="Vklop" />
+    </setting>
+    <setting name="Fog Distance" translation="Oddaljenost megle">
+      <value name="Far" translation="DaleÄ" />
+      <value name="Medium" translation="Srednja" />
+      <value name="Near" translation="Blizu" />
+    </setting>
+    <setting name="Graphic Detail" translation="GrafiÄne podrobnosti">
+      <value name="High" translation="Visoke" />
+      <value name="Low" translation="Nizke" />
+      <value name="Medium" translation="Srednja" />
+    </setting>
+    <setting name="Post Effects" translation="Naknadni uÄinki">
+      <value name="High" translation="Visoki" />
+      <value name="Low" translation="Nizki" />
+      <value name="Medium" translation="Srednji" />
+    </setting>
+    <setting name="Resolution" translation="LoÄljivost" />
+    <setting name="Shaders" translation="OsenÄevalniki">
+      <value name="High" translation="Visok" />
+      <value name="Low" translation="Nizko" />
+      <value name="Medium" translation="Srednje" />
+    </setting>
+    <setting name="Texture Filter" translation="Filtriranje tekstur">
+      <value name="High" translation="Visok" />
+      <value name="Low" translation="Nizek" />
+      <value name="Medium" translation="Srednji" />
+    </setting>
+    <setting name="Texture Quality" translation="Kakovost teksture">
+      <value name="High" translation="Visoko" />
+      <value name="Low" translation="Nizko" />
+      <value name="Medium" translation="Srednje" />
+    </setting>
+  </language>
+  <language name="sv_SE" translation="">
+    <setting name="Characters" translation="Figurer">
+      <value name="Few" translation="FÃ¥" />
+      <value name="Many" translation="MÃ¥nga" />
+      <value name="Normal" translation="Normal" />
+    </setting>
+    <setting name="Display Mode" translation="VisningslÃ¤ge">
+      <value name="Full-screen" translation="HelskÃ¤rm" />
+      <value name="Windowed" translation="I fÃ¶nster" />
+    </setting>
+    <setting name="Dynamic Shadows" translation="Dynamiska skuggor">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="PÃ¥" />
+    </setting>
+    <setting name="Fog Distance" translation="DimavstÃ¥nd">
+      <value name="Far" translation="LÃ¥ngt borta" />
+      <value name="Medium" translation="Medel" />
+      <value name="Near" translation="NÃ¤ra" />
+    </setting>
+    <setting name="Graphic Detail" translation="Grafiska detaljer">
+      <value name="High" translation="HÃ¶gt" />
+      <value name="Low" translation="LÃ¥g" />
+      <value name="Medium" translation="Medel" />
+    </setting>
+    <setting name="Post Effects" translation="Efterbehandlingseffekter">
+      <value name="High" translation="HÃ¶g" />
+      <value name="Low" translation="LÃ¥g" />
+      <value name="Medium" translation="Medel" />
+    </setting>
+    <setting name="Resolution" translation="UpplÃ¶sning" />
+    <setting name="Shaders" translation="Shader">
+      <value name="High" translation="HÃ¶g" />
+      <value name="Low" translation="LÃ¥g" />
+      <value name="Medium" translation="Medel" />
+    </setting>
+    <setting name="Texture Filter" translation="Texturfilter">
+      <value name="High" translation="HÃ¶gt" />
+      <value name="Low" translation="LÃ¥g" />
+      <value name="Medium" translation="Medel" />
+    </setting>
+    <setting name="Texture Quality" translation="Texturkvalitet">
+      <value name="High" translation="HÃ¶g" />
+      <value name="Low" translation="LÃ¥g" />
+      <value name="Medium" translation="Medel" />
+    </setting>
+  </language>
+  <language name="th_TH" translation="">
+    <setting name="Characters" translation="à¸•à¸±à¸§à¸¥à¸°à¸„à¸£">
+      <value name="Few" translation="à¸™à¹‰à¸­à¸¢" />
+      <value name="Many" translation="à¸¡à¸²à¸" />
+      <value name="Normal" translation="à¸›à¸à¸•à¸´" />
+    </setting>
+    <setting name="Display Mode" translation="à¹‚à¸«à¸¡à¸”à¸à¸²à¸£à¹à¸ªà¸”à¸‡à¸œà¸¥">
+      <value name="Full-screen" translation="à¹€à¸•à¹‡à¸¡à¸«à¸™à¹‰à¸²à¸ˆà¸­" />
+      <value name="Windowed" translation="à¹à¸šà¸šà¸«à¸™à¹‰à¸²à¸•à¹ˆà¸²à¸‡" />
+    </setting>
+    <setting name="Dynamic Shadows" translation="à¹€à¸‡à¸²à¹à¸šà¸šà¹„à¸”à¸™à¸²à¸¡à¸´à¸">
+      <value name="Off" translation="à¸›à¸´à¸”" />
+      <value name="On" translation="à¹€à¸›à¸´à¸”" />
+    </setting>
+    <setting name="Fog Distance" translation="à¸£à¸°à¸¢à¸°à¸«à¸¡à¸­à¸">
+      <value name="Far" translation="à¹„à¸à¸¥" />
+      <value name="Medium" translation="à¸›à¸²à¸™à¸à¸¥à¸²à¸‡" />
+      <value name="Near" translation="à¹ƒà¸à¸¥à¹‰" />
+    </setting>
+    <setting name="Graphic Detail" translation="à¸£à¸²à¸¢à¸¥à¸°à¹€à¸­à¸µà¸¢à¸”à¸à¸£à¸²à¸Ÿà¸´à¸">
+      <value name="High" translation="à¸ªà¸¹à¸‡" />
+      <value name="Low" translation="à¸•à¹ˆà¸³" />
+      <value name="Medium" translation="à¸›à¸²à¸™à¸à¸¥à¸²à¸‡" />
+    </setting>
+    <setting name="Post Effects" translation="à¹€à¸­à¸Ÿà¹€à¸Ÿà¸à¸•à¹Œà¸«à¸¥à¸±à¸‡à¸–à¹ˆà¸²à¸¢">
+      <value name="High" translation="à¸ªà¸¹à¸‡" />
+      <value name="Low" translation="à¸•à¹ˆà¸³" />
+      <value name="Medium" translation="à¸›à¸²à¸™à¸à¸¥à¸²à¸‡" />
+    </setting>
+    <setting name="Resolution" translation="à¸„à¸§à¸²à¸¡à¸¥à¸°à¹€à¸­à¸µà¸¢à¸”" />
+    <setting name="Shaders" translation="à¸•à¸±à¸§à¹ƒà¸«à¹‰à¹à¸ªà¸‡-à¹€à¸‡à¸²">
+      <value name="High" translation="à¸ªà¸¹à¸‡" />
+      <value name="Low" translation="à¸•à¹ˆà¸³" />
+      <value name="Medium" translation="à¸›à¸²à¸™à¸à¸¥à¸²à¸‡" />
+    </setting>
+    <setting name="Texture Filter" translation="à¸•à¸±à¸§à¸à¸£à¸­à¸‡à¸žà¸·à¹‰à¸™à¸œà¸´à¸§">
+      <value name="High" translation="à¸ªà¸¹à¸‡" />
+      <value name="Low" translation="à¸•à¹ˆà¸³" />
+      <value name="Medium" translation="à¸›à¸²à¸™à¸à¸¥à¸²à¸‡" />
+    </setting>
+    <setting name="Texture Quality" translation="à¸„à¸¸à¸“à¸ à¸²à¸žà¸‚à¸­à¸‡à¸žà¸·à¹‰à¸™à¸œà¸´à¸§">
+      <value name="High" translation="à¸ªà¸¹à¸‡" />
+      <value name="Low" translation="à¸•à¹ˆà¸³" />
+      <value name="Medium" translation="à¸›à¸²à¸™à¸à¸¥à¸²à¸‡" />
+    </setting>
+  </language>
+  <language name="tr_TR" translation="">
+    <setting name="Characters" translation="Karakterler">
+      <value name="Few" translation="Az" />
+      <value name="Many" translation="Ã‡ok" />
+      <value name="Normal" translation="Normal" />
+    </setting>
+    <setting name="Display Mode" translation="Ekran Modu">
+      <value name="Full-screen" translation="Tam Ekran" />
+      <value name="Windowed" translation="Pencere iÃ§inde" />
+    </setting>
+    <setting name="Dynamic Shadows" translation="Dinamik GÃ¶lgeler">
+      <value name="Off" translation="KapalÄ±" />
+      <value name="On" translation="AÃ§Ä±k" />
+    </setting>
+    <setting name="Fog Distance" translation="Sis Mesafesi">
+      <value name="Far" translation="Uzak" />
+      <value name="Medium" translation="Orta" />
+      <value name="Near" translation="YakÄ±n" />
+    </setting>
+    <setting name="Graphic Detail" translation="Grafik AyrÄ±ntÄ± DÃ¼zeyi">
+      <value name="High" translation="YÃ¼ksek" />
+      <value name="Low" translation="DÃ¼ÅŸÃ¼k" />
+      <value name="Medium" translation="Orta" />
+    </setting>
+    <setting name="Post Effects" translation="Son Efektler">
+      <value name="High" translation="YÃ¼ksek" />
+      <value name="Low" translation="DÃ¼ÅŸÃ¼k" />
+      <value name="Medium" translation="Orta" />
+    </setting>
+    <setting name="Resolution" translation="Ã‡Ã¶zÃ¼nÃ¼rlÃ¼k" />
+    <setting name="Shaders" translation="GÃ¶lgelendiriciler">
+      <value name="High" translation="YÃ¼ksek" />
+      <value name="Low" translation="DÃ¼ÅŸÃ¼k" />
+      <value name="Medium" translation="Orta" />
+    </setting>
+    <setting name="Texture Filter" translation="Doku Filtresi">
+      <value name="High" translation="YÃ¼ksek" />
+      <value name="Low" translation="DÃ¼ÅŸÃ¼k" />
+      <value name="Medium" translation="Orta" />
+    </setting>
+    <setting name="Texture Quality" translation="Doku Kalitesi">
+      <value name="High" translation="YÃ¼ksek" />
+      <value name="Low" translation="DÃ¼ÅŸÃ¼k" />
+      <value name="Medium" translation="Orta" />
+    </setting>
+  </language>
+  <language name="zh_CHS" translation="">
+    <setting name="Characters" translation="è§’è‰²">
+      <value name="Few" translation="å¾ˆå°‘" />
+      <value name="Many" translation="è®¸å¤š" />
+      <value name="Normal" translation="æ­£å¸¸" />
+    </setting>
+    <setting name="Display Mode" translation="æ˜¾ç¤ºæ¨¡å¼">
+      <value name="Full-screen" translation="å…¨å±å¹•" />
+      <value name="Windowed" translation="çª—å£åŒ–" />
+    </setting>
+    <setting name="Dynamic Shadows" translation="åŠ¨æ€é˜´å½±">
+      <value name="Off" translation="å…³" />
+      <value name="On" translation="å¼€" />
+    </setting>
+    <setting name="Fog Distance" translation="é›¾åŒ–è·ç¦»">
+      <value name="Far" translation="è¿œ" />
+      <value name="Medium" translation="ä¸­" />
+      <value name="Near" translation="è¿‘" />
+    </setting>
+    <setting name="Graphic Detail" translation="å›¾å½¢ç»†èŠ‚">
+      <value name="High" translation="é«˜" />
+      <value name="Low" translation="ä½Ž" />
+      <value name="Medium" translation="ä¸­" />
+    </setting>
+    <setting name="Post Effects" translation="åŽå¤„ç†æ•ˆæžœ">
+      <value name="High" translation="é«˜" />
+      <value name="Low" translation="ä½Ž" />
+      <value name="Medium" translation="ä¸­" />
+    </setting>
+    <setting name="Resolution" translation="åˆ†è¾¨çŽ‡" />
+    <setting name="Shaders" translation="ç€è‰²å™¨">
+      <value name="High" translation="é«˜" />
+      <value name="Low" translation="ä½Ž" />
+      <value name="Medium" translation="ä¸­" />
+    </setting>
+    <setting name="Texture Filter" translation="çº¹ç†è¿‡æ»¤å™¨">
+      <value name="High" translation="é«˜" />
+      <value name="Low" translation="ä½Ž" />
+      <value name="Medium" translation="ä¸­" />
+    </setting>
+    <setting name="Texture Quality" translation="çº¹ç†è´¨é‡">
+      <value name="High" translation="é«˜" />
+      <value name="Low" translation="ä½Ž" />
+      <value name="Medium" translation="ä¸­" />
+    </setting>
+  </language>
+  <language name="zh_CHT" translation="">
+    <setting name="Characters" translation="è§’è‰²">
+      <value name="Few" translation="å¾ˆå°‘" />
+      <value name="Many" translation="å¾ˆå¤š" />
+      <value name="Normal" translation="æ­£å¸¸" />
+    </setting>
+    <setting name="Display Mode" translation="é¡¯ç¤ºæ¨¡å¼">
+      <value name="Full-screen" translation="å…¨èž¢å¹•" />
+      <value name="Windowed" translation="è¦–çª—åž‹" />
+    </setting>
+    <setting name="Dynamic Shadows" translation="å‹•æ…‹é™°å½±">
+      <value name="Off" translation="é—œé–‰" />
+      <value name="On" translation="é–‹å•Ÿ" />
+    </setting>
+    <setting name="Fog Distance" translation="éœ§çš„è·é›¢">
+      <value name="Far" translation="é " />
+      <value name="Medium" translation="ä¸­" />
+      <value name="Near" translation="è¿‘" />
+    </setting>
+    <setting name="Graphic Detail" translation="åœ–å½¢ç´°ç¯€">
+      <value name="High" translation="é«˜" />
+      <value name="Low" translation="ä½Ž" />
+      <value name="Medium" translation="ä¸­" />
+    </setting>
+    <setting name="Post Effects" translation="å¾ŒçºŒæ•ˆæžœ">
+      <value name="High" translation="é«˜" />
+      <value name="Low" translation="ä½Ž" />
+      <value name="Medium" translation="ä¸­" />
+    </setting>
+    <setting name="Resolution" translation="è§£æžåº¦" />
+    <setting name="Shaders" translation="è‘—è‰²å™¨">
+      <value name="High" translation="é«˜" />
+      <value name="Low" translation="ä½Ž" />
+      <value name="Medium" translation="ä¸­" />
+    </setting>
+    <setting name="Texture Filter" translation="æè³ªç¯©é¸å™¨">
+      <value name="High" translation="é«˜" />
+      <value name="Low" translation="ä½Ž" />
+      <value name="Medium" translation="ä¸­" />
+    </setting>
+    <setting name="Texture Quality" translation="æè³ªå“è³ª">
+      <value name="High" translation="é«˜" />
+      <value name="Low" translation="ä½Ž" />
+      <value name="Medium" translation="ä¸­" />
+    </setting>
+  </language>
+</game>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            &"]F&7Soa3^_]þÚ^_]^^_]     ›ý÷Z 6 B ]@$CC@D 1-=*&7 ;3? 3Fv/7 //ý/ýý/ý/ý/ý... ....10Ih¹  CIha°@RX87¹ CÿÀ8Y#"'#"'&54767632327676'&'&'7632 324'&#"3276ZÐ™ÕyZ
+3©‘©¨lv+!9?S¨¾t
+c83OTÙY<?]@8<²í68‚‰ÚM¹XAyˆNCS\¤WcG(	ua_E[D8B;:)@~jX4s69¡9(#ó    ›ý÷Zé 6 B F Ž@AGG@H D1-EC=*CFCDDEFFCEEFDCDEEFCCDFFC&7 ;3? FFv/7 //ý/ý/ý/ý/ý/ý‡.ÄüÄ‡.ÄüÄ..... .....10Ih¹  GIha°@RX87¹ GÿÀ8Y#"'#"'&54767632327676'&'&'7632 324'&#"3276'7ZÐ™ÕyZ
+3©‘©¨lv+!9?S¨¾t
+c83OTÙY<?]@8<²í68‚‰Ú½hihM¹XAyˆNCS\¤WcG(	ua_E[D8B;:)@~jX4s69¡9(#ó¾hih    ž /¸ 1 = c@'>>@? (#"8(# 
+%&%2 .6: 
+Fv/7 ?/ý</ý/ý/ý<ý...... ....10Ih¹ 
+ >Iha°@RX87¹ >ÿÀ8Y!"'&'&5432326'&''7672+27676324'&#"3276/þú¨þ¬=…5	]—8("[$	(#UiOn`<DYI?BþÖSVq“Ô\ÚN2#y
+,&7RÑ@÷\HUþ§@ŠLŽPc2P.3°>+%ø	!     ž /¸ 1 = A –@EBB@C A?(#"@>8(# 
+@?@AA>??@>>??>?@@A>>?AA>%&%2 .6: 
+Fv/7 ?/ý</ý/ý/ý<ý‡.ÄüÄ‡.ÄüÄ........ ......10Ih¹ 
+ BIha°@RX87¹ BÿÀ8Y!"'&'&5432326'&''7672+27676324'&#"3276'7/þú¨þ¬=…5	]—8("[$	(#UiOn`<DYI?BþÖSVq“Ô`hih\ÚN2#y
+,&7RÑ@÷\HUþ§@ŠLŽPc2P.3°>+%ø	!²hih   ›ýÈ"ö 6 U@77@853$ 5&+
+/Fv/7 //ýý/ý/ý.... ....10Ih¹  7Iha°@RX87¹ 7ÿÀ8Y!"'&5%&547632#"'&#"327672327632ü~þçÀ|Ž&ž]cm{F	
+.p6MYTN>/à%ýŒª|½±d'
+þL„Wc¸©D|djpt
+	!&/:73I	p†þò¥M8	    ›ýÈ"§ 6 : †@<;;@<583$ 975&7:7889::799:87899:778::7+
+/:Fv/7 ///ýý/ý/ý‡.ÄüÄ‡.ÄüÄ...... .....10Ih¹  ;Iha°@RX87¹ ;ÿÀ8Y!"'&5%&547632#"'&#"327672327632'7ü~þçÀ|Ž&ž]cm{F	
+.p6MYTN>/à%ýŒª|½±d'
+þhihþL„Wc¸©D|djpt
+	!&/:73I	p†þò¥M8	Êhih  ÿé ‚ •  ?@@    Fv/7 ?</</<ý< 10Ih¹  Iha°@RX87¹ ÿÀ8Y%!5!‚ýg™”     ›ÿïa’ & / 3 Š@?44@5 120'030112330223101223001330 ,.*#3Fv/7 ///ýý/ý/ý/ý/<ý‡.ÄüÄ‡.ÄüÄ.... ...10Ih¹  4Iha°@RX87¹ 4ÿÀ8Y! &76323 7676'#"'&76324&#"'7a*gý þ-G
+´ZÀ(<	dM³1<^U?HbT<c|3hihk‡@ži
+K#„,p•hbwkzQ=d`Pahih    ›ýþ…a - 7 ; ? ½@^@@@A=9"><:8.8;899:;;8::;<?<==>??<>>?989::;889;;8=<=>>?<<=??< 
+&46$1*?;$ 
+Fv/7 ?//</ýýý/ý/ý/ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ...... ....10Ih¹ 
+ @Iha°@RX87¹ @ÿÀ8Y%# 476767232767676'5476764&'&'7'7‚!>¢¦þJ!(	5p_†¢|²)He¸3>ZTBNfZ;(;~:ybdcxccb1CE‚E=LLeQ4s^~E:$4p&(R—edyas`<`6'Pkbccdbcc    ›ÿü¡ 1 R@22@3 &%* #	 Fv/7 /</ý</ý/ý.... ...10Ih¹  2Iha°@RX87¹ 2ÿÀ8Y) 476323!27654'&'&5476767$-lþRN—6i
+	#Fþ´þõþ+>EcÔ™?‰Ñ14ü¡!r!‰/—E†tdUª
+`e
+E*F2H\Š½>D#>E^h     ›þL¤ ' N@((@)!	$	Fv/7 //ý/ý/ý.... ...10Ih¹  (Iha°@RX87¹ (ÿÀ8Y+!"'&54763232765767F	+(þ¤bqX*YO}¹†w8Yðýþáþ;EOž |
+iGyB;E=A@ R3  ›ý½1( ! + P@,,@- ""	 (&Fv/7 //ý/ý/ý..... ...10Ih¹  ,Iha°@RX87¹ ,ÿÀ8Y%#"&#""'&76763&547632&'&#"21(+4Î4f-!3#)!)719IXØfBJ?X€þ FJ'þ´™Dc/=$9.6!?HSÓ‚B?FB%<    ›ý÷\¦ , 0 y@511@2.)/-&-0-../00-//0.-.//0--.00-"0Fv/7 //ý/ý/ý‡.ÄüÄ‡.ÄüÄ.... ...10Ih¹  1Iha°@RX87¹ 1ÿÀ8Y%#"'&5476763232767654'&'7632'7Q2¯’¬¨lv+!9?S¨¾’x
+b4Xþ hihC-HDOBS\¤WcG(	ua_E[D8B!3J>‹h‰‘hih     ›ÿý€P   C@@   Fv/7 ?/ý/ý/ý .10Ih¹  Iha°@RX87¹ ÿÀ8Y#"'&547674'&'3276€QN„Q7:LBPIUL;d/(0S9-ƒIE13PY„rP‰í5PGL-  Tþ
+’Þ  & S@''@(  #%%  Fv/7 ?//ýýý/ý/ý<.. 10Ih¹  'Iha°@RX87¹ 'ÿÀ8Y%#"'&54767676=5476324'&#"32’Å>mŒ14›†8.:§±7?Qx:(\*-<(;~/4þâÌ@-s0AQ7*™_m|¥r)>7<<(X  ›þ^*i 7 R@88@9 $,2
+6(6Fv/7 //ýý/ý/ý/ý.. ..10Ih¹  8Iha°@RX87¹ 8ÿÀ8Y'&#"#"'&547676327654'&'&547632';[~lY²Ã!C,”·ì¦nyuKAY¯œ­úõ[!/‚Œ‰•Õ$!kY4> $:ikG;IU^¡³šŠwWF_'8e&/C}¨µ  ›þ^*i 7 R@88@9 $,2
+6(6Fv/7 //ýý/ý/ý/ý.. ..10Ih¹  8Iha°@RX87¹ 8ÿÀ8Y'&#"#"'&547676327654'&'&547632';[~lY²Ã!C,”·ì¦nyuKAY¯œ­úõ[!/‚Œ‰•Õ$!kY4> $:ikG;IU^¡³šŠwWF_'8e&/C}¨µ  eý“|   t@-@	     Fv/7 ///<ý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ ..10Ih¹  Iha°@RX87¹ ÿÀ8Y5%55%“þÒ.þÒ.y|Owo|Ow   +þ±3 % - _@$..@/ ,( *& 	$	Fv/7 //ý/ý/ý/ý...... .......10Ih¹  .Iha°@RX87¹ .ÿÀ8Y&'#"'27654#"'63267&5476324#"6±A
+#- lR)
+$&#D!=4HG*"'Ü*H	<@B/)-# 8--&a)!    ™ûëÇýj   s@*@	     Fv/7 //‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........ ..10Ih¹  Iha°@RX87¹ ÿÀ8Y5%55%ÇþÒ.þÒ.üg|Owo|Ow    eý“Ã  I@@   Fv/7 //‡.ÄüÄ.... 10Ih¹  Iha°@RX87¹ ÿÀ8Y5%“þÒ.y|Ow    ,þ«4    P@!!@"  		Fv/7 //ý/ý/ý.... ....10Ih¹  !Iha°@RX87¹ !ÿÀ8Y&'#"'6767&5476324#"6«@	"/qMV< =4!G,#'Ü(J	<	@C9,-',("     ˜ü¤Çýj  I@@   Fv/7 //‡.ÄüÄ.... 10Ih¹  Iha°@RX87¹ ÿÀ8Y5%ÇþÑ/ý |Ow    *þ²á & P@''@( $"  %Fv/7 //ý/ý/ý/ý/ý.. .10Ih¹  'Iha°@RX87¹ 'ÿÀ8Y#"'#"&547632327676323254'7² 24/>%6**0.3~3$&58D&")	!	-!6e0*$  ƒ n%   E@@  Fv/7 //ýý/ý/ý 10Ih¹  Iha°@RX87¹ ÿÀ8Y#"5476324#"32n~m#!B%!#e<T{{])KT6/NS#$   ›ýßj  " & * Ý@q++@, *(&$ )'%#!"  !""!!"#&#$$%&&#%%&'*'(()**'))*  !!" ""$#$%%&##$&&#('())*''(**' "Fv/7 //</ý/ý/ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........ ......10Ih¹  +Iha°@RX87¹ +ÿÀ8Y# 47632!27654'7677?j_@§¸ÖþGãë§¹X?Rý5^^^Ñ^^]…]_^ Ž<(!]f	@3½5 vy‚ü»]^]&]^]^]^]   ›ýÆ\1 / 3 7 ; ê@x<<@=.;97531,:86420.
+0301123302236567745564458;899:;;8::;101223001330545667445774;:;889::;99:$(Fv/7 ///<ýýý/<ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ......... ........10Ih¹  <Iha°@RX87¹ <ÿÀ8Y# '&5%&#"3"767632;2327632%77?H`i[þë‚cèÍY,–'Ar\l]^$#Z|Ä¤Ì©…¹Ç—
+ýá]^]Ò^_^…^_^þYW …e›tÁ#g ::a@	c#k†«©UC)
+Õ]^]&]^]^]^]   Eþ…¡     $ Ñ@j%%@& $" #!    !$!""#$$!##$   "!"##$!!"$$! Fv/7 ///ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........ ......10Ih¹  %Iha°@RX87¹ %ÿÀ8Y#"'&54767654'767'7'7'7…wfD’j#$–˜¢†:.%(’^^]Ò^_^…^__»¦Ž€‰~T‚y8]b]^]þÚ]^]^]^]  ›ÿü„Í  2 @=33@4)(-&
+        11"! Fv/7 /</ý</ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........ .....10Ih¹  3Iha°@RX87¹ 3ÿÀ8Y7%#! 476323!27654'&'&54767$iý#èþ³í(+aZ¯þõþ+>EcÔšBŽÈ040ôÍ_É\!l:râ–kT\$"
+`e
+E*F2HZfÀ :?A5QV      õˆ 
+ y@3@ 	  
+ 	  
+
+ 
+ Fv/7 ?<//<ý</<ý<‡.ÄüÄ‡.ÄüÄ..... .10Ih¹  Iha°@RX87¹ ÿÀ8Y'7##3'7õlH%°CoHú÷,C   ÿ-   %ˆ 
+ w@1@ 			
+
+ 
+	  Fv/7 ?<//<ý</<ý<‡.ÄüÄ‡.ÄüÄ..... .10Ih¹  Iha°@RX87¹ ÿÀ8Y3##'73%%ErrC²	HooC    }kÓ  I@@  
+Fv/7 //ýý/ýý.. 10Ih¹  Iha°@RX87¹ ÿÀ8Y632#"&54767ÓYAL '3f0+=Rfla‰Î;Ve\7+/d;!eRŽI     ih¼  F@@ 	  Fv/7 //ý/ýý<< .10Ih¹  Iha°@RX87¹ ÿÀ8Y5654'#"&547632¼k[ä!!>)91+=VbIŠvR8¢°>'18):#d   F"<  % G@&&@'   "	 Fv/7 /</</ý/ý.... 10Ih¹   &Iha°@RX87¹ &ÿÀ8Y#"'&547#"'&547<4R?-4 Ëö4R?-4 Ëz3,Z-B*&6ÉžS
+(3,Z-B*&6ÉžS
+(   ND  % G@&&@' 
+ "Fv/7 /</</ý/ý.... 10Ih¹  &Iha°@RX87¹ &ÿÀ8Y4'&'6765&546324'&'6765&54632DË4R>.6þòË4R>.6ÉžS
+(3,Z.A)%8ÉžS
+(3,Z.A)%    D É  =@@  Fv/7 //...... 10Ih¹  Iha°@RX87¹ ÿÀ8Y	ÉäÞþ…Æþ‚þ„KÇÉ  @ É  =@@  Fv/7 //...... 10Ih¹  Iha°@RX87¹ ÿÀ8Y	55ÉþwçÞJþ7K~}M   ÿÿ %¯­X l 	i  ÿÿ n0œö N 	þ3  ÿÿ ?[¾‘ O þ]  ÿÿ gKRp RÿäþK  ÿÿ \CŠÂ Kÿ÷þF  ÿÿ cVé‹ L 8þX  ÿÿ *6² Q  þ8  ÿÿ 4ýÃcþ‰ Pÿœ  ÿÿ (ý(Vþ§ Mÿ=  ÿÿ 8KÀ^' Q þM N›  bFê§ ' @ I y@4JJ@K /-&7,*%3# 9FA(H15C=!=Fv/7 /</ýýý/ý/ýý/ý/ý/ý/<ý..... ....10Ih¹  JIha°@RX87¹ JÿÀ8Y#"'#"'&547632327676323254'7&'#"'6767&5476324#"6ê 23.?)**0.3@	"/qMV< =4!G#'Å3$&57)!")"-!9e0)"I*G=	@C9,-',"   F¤ï  + / ˜@?00@1-*/.-,)  /../ ,-/../'!
+%/Fv/7 /</ýý/ý/ý/ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ.......... .....10Ih¹  0Iha°@RX87¹ 0ÿÀ8Y5%#"'#"'&547632327676323254'75%…þÒ. 23.?)**0.3þÒ.ì|OxþŽ3$&57)!")"-!9e0)"Ÿ|Ow ÿÿ A…Ô' Q þ‡ L#Ù  bEê( & * j@)++@, **)('$)*(''("  %(Fv/7 ///ý/ý/ý/ý/ý‡.ÄüÄ...... ..10Ih¹  +Iha°@RX87¹ +ÿÀ8Y#"'#"&547632327676323254'75%ê 24/>%6**0.30þÒ.Å3$&58D&")	!	-!6e0*$þ¼{Nx   ÿþE†È & * . •@@//@0 .*($)*,++,)*(''(-.,++,.+*'-,)("  %,Fv/7 ///ý/ý/ý/ý/ý/<ý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ.. ....10Ih¹  /Iha°@RX87¹ /ÿÀ8Y#"'#"&547632327676323254'75%5%† 24/>%6**0.30þÒ.þÒ.e3$&58D&")	!	-!6e0*$þ¼{Nxë{Nx   ›ýßÕ ! % ) - ê@x..@/ -+)'#,*(&$"! "%"##$%%"$$%&)&''())&(()*-*++,--*,,-#"#$$%""#%%"'&'(()&&'))&+*+,,-**+--*	!  %  	Fv/7 ?<///ýý</ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........... .......10Ih¹ 	 .Iha°@RX87¹ .ÿÀ8Y%#"'&'! 47632! 7632;77?6Z9AÕþDþ6G åŸ 6üž^^^Ñ^^]…]_^).VÅ^e@3¿Ó*Dgý¨]^]&]^]^]^]  ÿæýß¼
+     à@s@	   Fv/7 ?<//ý</<ýý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ...... .....10Ih¹  Iha°@RX87¹ ÿÀ8Y+53254'763277?LýiW¿W4Q½]^]Ò_^^…^_^ ÿþ”E0o~wüÁ]^]&]^]^]^]   ÿæýß`     ç@x@     Fv/7 ?<//ýý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ.......... .....10Ih¹  Iha°@RX87¹ ÿÀ8Y%#"'+5327632;77?b±<BÆSr»µqþ]^]Ò^_^…^_^tt”‘:<ý¨]^]&]^]^]^]    ›ýÆ”1 : > B F@ˆGG@H FDB@><$ECA?=;0;>;<<=>>;==>A@ABB?@@A??@CFCDDEFFCEEF<;<==>;;<>>;@?@AAB??@BB?FEFCCDEEFDDE: 7	&:9 !*3.-*  Fv/7 ?<///<ýýýý</<ý/ýý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ.......... .........10Ih¹  GIha°@RX87¹ GÿÀ8Y%# 547327632# '&5%&#"3"767632;2;77?”|þÿÊžÌ©…¹Ç—
+`i[þë‚cèÍY,–'Ar\l]^$#7kËvýP^^]Ò^_^…^__ç08)f„¬©UC)
+W …e›tÁ#g ::a@	b’þˆ]^^']^^_]^^    ÿæýë[ & * . 2 è@w33@4%20.,(1/-+)'%
+'*'(()**'))*+.+,,-..+--./2/00122/112('())*''(**',+,--.++,..+0/0112//022/#	*
+	 
+Fv/7 ?<//ýý</ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........... ......10Ih¹ 
+ 3Iha°@RX87¹ 3ÿÀ8Y&+5327%&'&#"#"54763277?89M›–Ryw[`²‡*Gœ&JM?˜6]œLƒµ ý¢]^]Ò^_^…^_^udMK+”;‚:0A¹*F,ü½^_]&^_]^^_] ÿæýë‚` 2 6 : > ý@„??@@ ><:84=;9753-(3634456635567:7889::799:;>;<<=>>;==>43455633466387899:778::7<;<==>;;<>>;2 21  +& 6  Fv/7 ?<///ýýý</<ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ............. .......10Ih¹  ?Iha°@RX87¹ ?ÿÀ8Y%#"547+532767&'&#"#"54763276&;77?‚‚üW›’M|y[` NË,´ƒER@—9[‹\}¸	+x&„}ýk^^]Ò^^]…]`_ú%*`[!6”P)i	/"F¾/oV =ý´^_]&^_]^^_]    Eþ¡  # ' + è@w,,@- +)'%!*(&$"  # !!"## ""#$'$%%&''$&&'(+())*++(**+! !""#  !## %$%&&'$$%''$)()**+(()++(  #	  Fv/7 ?<//ý</<ýý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........ .......10Ih¹  ,Iha°@RX87¹ ,ÿÀ8Y%#"'#"'&54767654'767;'7'7'76F$ue@’j#$–˜¢†;; <R(þ×^^]Ò^_^…^__´§€‰~T‚xN/®]^]þÚ]^]^]^]  ›ÿüá£ 6 m@*77@8 6/+% -/+))+65 	+
+	  Fv/7 ?</</ý<ý</ý‡.ÄüÄ....... ..10Ih¹  7Iha°@RX87¹ 7ÿÀ8Y%#"'&') 47632;27654'&'&5476%$7;á]ai8^:aþçþýþ+>EcÔû×Q_Y4sY*	´%Óþ`¹ü[:-Q5l9‹„Bo
+`e
+E*F2H YMm@lT	:^b6sA›©þ¸w!   ÿæ 3¡ " N@##@$  	  Fv/7 ?</ý</ý..... ..10Ih¹  #Iha°@RX87¹ #ÿÀ8Y!#5327654'&'&5476767$3,þ½ÙM˜6g	%Cþ±EH—BŠÒ15ü¡!reF.—E„v_Z¥”^€¾@C$=D^j    ÿæ Š¢ # e@'$$@% #	 #"
+	   Fv/7 ?</ý<‡.ÄüÄ........ .10Ih¹  $Iha°@RX87¹ $ÿÀ8Y%#"'&'!#53 54'&'&5476767;Š\ch3b
+þŸ‘£Z9mZ+	òþÍ!óþ²[9,S4l5þÐ”LnEfT	€:Y^>rP‘þ±v"  ›ÿüâÑ  4 ›@D55@6)	4-)%! +-       +-)'')43  Fv/7 ?</</ý<ý</ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ......... ....10Ih¹  5Iha°@RX87¹ 5ÿÀ8Y7#"'&'#! 47632; 54'&'476%;]ýŽøLffGbˆbÀþõþ+>EcÔû‡¨H`(¯'¨þoÏŽX/S_6Ñ_É]ûûZ?‰®F3
+`e
+E*F2H”mžDCR)Ðq,×¦g$@ ÿæ Í  ! ‹@;""@#
+            Fv/7 ?</ý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ......... ....10Ih¹  "Iha°@RX87¹ "ÿÀ8Y7%+53 54'&'&54767$ý#èþ³í&*^S±7,mÈ040ôÍ_É\!l:râ–iT]#”~fÀ :?A5QV  ÿæ |Ñ  # “@A$$@%	#        #"  Fv/7 ?</ý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ.......... ...10Ih¹  $Iha°@RX87¹ $ÿÀ8Y7#"'&'!#53 54'&'476%;ùýõJefGbþH4c¨H`(°(¨þpÈ•W0T]4Ñ_É]ûûZ?‰þÞ”mžDCR)Ñq,Ð­e%A     › lœ  " D ‹@9EE@F C?5&C;3+)'&#
+  !7//  
+Fv/7 ?</ý/<ýý<‡.ÄüÄÄÄ............... .......10Ih¹ 
+ EIha°@RX87¹ EÿÀ8Y%#"'+"'&54767'7;%'32567&547632'&#"3276l_¤,Zq<;RfD§VR EYþÁ+AZ{^B3?Q’;Q5;4E	43*)!%ÌY-Z<B{aþm{%8qË,<#Ë?5/!4)&>E?		&
+  ›ýÌ • . S@//@0 .' !.-  Fv/7 ?<//<ý/ý/ý..... .10Ih¹  /Iha°@RX87¹ /ÿÀ8Y%!"! 467676327654'&'&547676;þÜ62EqW“þþ@@.:|_’›èe¡e1)-Z¦±*
+R(—J~KK·<nvƒ?0F:.E9%I   ÿæþ„Â
+    ®@U@	   Fv/7 ?</</ý</ý<ý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ.... ..10Ih¹  Iha°@RX87¹ ÿÀ8Y+53254'7632'7'7LýiW¿W4Qvcccxccb ÿþ”E0o~wýkcdcdcdc    ÿæþ„`    µ@Z@     Fv/7 ?</</ýý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........ ..10Ih¹  Iha°@RX87¹ ÿÀ8Y%#"'+5327632;'7'7b±<BÆSr»µqÊcdcxbdctt”‘:<þRcdcdcdcÿÿ .÷Á~ mÿír  ÿÿÿõÁ}D oÿ÷|  ÿÿ AØÉë j 	  ÿÿ bÂê# k  |  ÿÿ k¥óˆ n 	`    › ‡" 	 / ` k  @Hll@m0b_UF94.%f^T@- +
+aUIHEDRQVU\0)ZNM2j<;762 @Fv/7 ?<<//ý/<ýý<</ý/ý/<ý</<ý<ý/ý/ý<......... ...........10Ih¹ @ lIha°@RX87¹ lÿÀ8Y#654'63#"'#"&547632327676323254'7#"'+"'+"'&5476?;26=4'732547'32Ó*!…2'*'3(	!"	
+%%(/ÇÄ78›¶"R+AF\?-åW&!THWm-4coNfGüzFLsV>3*¾]D/+.ò(;*K0! 5H'!üêþä¸¸Õb5rP9[XaSfíPF_IÍyˆ[þ/hFRs‰ cþþñË"4""     v wt  * [@"++@,  	)  #'  Fv/7 ?<//ýý</<ý<..... ....10Ih¹  +Iha°@RX87¹ +ÿÀ8Y%#"'&?676;#"&#"#"547632327632wX7'P™DtUyH.cn6	uR£ô±AT¬þ³þ‹Ÿ¾E
+916    ‹ 9@  6 g@(77@8 3.$	5*"  &  Fv/7 ?</ýý</<ý<.......... .....10Ih¹  7Iha°@RX87¹ 7ÿÀ8Y%#"'&?676;567&547632'&#"32?679W7'O˜DŒ“;Q5:5C	!23*) !uR£ô±AT­þ´þ‹ŸÕ?5/ 7'%?E@	&	   Vþ
+»  ) M „@:NN@O J<-(LB:20.-	 &F#  #>66  	Fv/7 ?<//ý/ýýý<ý/ý/<ý<ý<......... ....10Ih¹ 	 NIha°@RX87¹ NÿÀ8Y%##"'&54767676=#"5476323'4'&#"32567&547632'&#"32763‹·:i/2žƒ8.: ¸7?Qc<,å).<'>•'<Q5:5D	#/!)=#þû¸:.r1@Q7"•_m|zYv:;C?'WS?4/ 5)%?E@		!	    ·þ70¥  6 e@'77@8 3.$5*"  &	  Fv/7 ?<///ýý</<ý<.......... ...10Ih¹  7Iha°@RX87¹ 7ÿÀ8Y%#"'&?676;567&547632'&#"32?6320W7'O˜DJ–‰,(Q5:5B 	!23*) !uR£ô±AT§þ®þ‹Ÿþ1?1/7&&?E@	&	   ›ýÌw . S s@/TT@U PKA2RG?7532.' !.- C;;  Fv/7 ?<//ýýý</ý/ý............ .....10Ih¹  TIha°@RX87¹ TÿÀ8Y%!"! 467676327654'&'&547676;567&547632'&#"32?67þÜ62EqW“þþ@@.:|_’›èe¡e1)-Z¦±üÎŒ“;Q5:5C	$/3*) !*
+R(—J~KK·<nvƒ?0F:.E9%I?5/ 7'%?E@	&	   ÿæ LÞ  2 h@)33@4 1,"1( 	  $ Fv/7 ?</ýý</ýý<......... .....10Ih¹  3Iha°@RX87¹ 3ÿÀ8Y+53254'7632567&547632'&#"32?6LýiW¿W4Q’;Q5;4E	43*)$ ÿþ”E0o~wŒ?5/!4)&>E?		&	  ÿæ @  3 n@.44@5 2$2*" . &  Fv/7 ?<//ýýý<ý........... ...10Ih¹  4Iha°@RX87¹ 4ÿÀ8Y%#"'+5327632;567&547632'&#"3276b±<BÆSr»µqÝ™†#1Q5:5B 	!23*)+tt”‘:<Ô> 0.5(&?E@	&    › û¥  J@@   	  Fv/7 ?</ý</<ý<... 10Ih¹  Iha°@RX87¹ ÿÀ8Y%#"'&?676;ûW7'O™CuR£ô±AT§þ®þ‹Ÿ   ›þvÕ ! % †@<&&@' %$"! $#$%%"##$""#%$%""#$$%##$	!  #  	Fv/7 ?<///ýý</ý‡.ÄüÄ‡.ÄüÄ....... ...10Ih¹ 	 &Iha°@RX87¹ &ÿÀ8Y%#"'&'! 47632! 7632;'76Z9AÕþDþ6G åŸ 6ýUhhh).VÅ^e@3¿Ó*DgþIhih   ÿæþL
+   |@7@ 	   Fv/7 ?<//ý</ýý<‡.ÄüÄ‡.ÄüÄ... .10Ih¹  Iha°@RX87¹ ÿÀ8Y+53254'7632'7LýiW¿W4Q)hih ÿþ”E0o~wýkhih    ÿæþ`   ƒ@<@     Fv/7 ?<//ýý<‡.ÄüÄ‡.ÄüÄ...... .10Ih¹  Iha°@RX87¹ ÿÀ8Y%#"'+5327632;'7b±<BÆSr»µqþëhihtt”‘:<þRhih     ›ÿéL ! % ) º@[**@+ '#(&$"! "%"##$%%"$$%&)&''())&(()#"#$$%""#%%"'&'(()&&'))&	!  )%  	Fv/7 ?<//<ýý</ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ......... .....10Ih¹ 	 *Iha°@RX87¹ *ÿÀ8Y%#"'&'! 47632! 7632;'7'76Z9AÕþDþ6G åŸ 6ýÀccbwcdc).VÅ^e@3¿Ó*DgSbccdbcc ÿæ ±’    ®@U@	   Fv/7 ?</<ý</ýý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ..... ...10Ih¹  Iha°@RX87¹ ÿÀ8Y+53254'7632'7'7LýiW¿W4Qecdcxbdc ÿþ”E0o~w³cdbccdb    ÿæ L    ³@Y@     Fv/7 ?</</ýý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........ ..10Ih¹  Iha°@RX87¹ ÿÀ8Y%#"'+5327632;'7'7b±<BÆSr»µq×bdcxccbtt”‘:<Sbccdbcc    ›ÿé¨ ! % ) - ì@y..@/ -+)'#,*(&$"! "%"##$%%"$$%&)&''())&(()*-*++,--*,,-#"#$$%""#%%"'&'(()&&'))&-,-**+,,-++,	!  %  	Fv/7 ?<//ýý</ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........... ........10Ih¹ 	 .Iha°@RX87¹ .ÿÀ8Y%#"'&'! 47632! 7632;'7'7'76Z9AÕþDþ6G åŸ 6ýR]_^Ñ^^]…]_^).VÅ^e@3¿Ó*Dgµ]^]þÚ]^]^]^]    ÿæ ¤>     à@s@	   Fv/7 ?</ý</ýý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ....... ......10Ih¹  Iha°@RX87¹ ÿÀ8Y+53254'7632'7'7'7LýiW¿W4Q^^^Ñ^^]…]_^ ÿþ”E0o~wd^_]þÚ]^]^]^]   ÿæ ¨     å@w@     Fv/7 ?<//ýý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ.......... .....10Ih¹  Iha°@RX87¹ ÿÀ8Y%#"'+5327632;'7'7'7b±<BÆSr»µqþ»]^]Ò_^]…]_^tt”‘:<µ]^]þÚ]^]^]^]  ›ýÆ”1 : > ¢@L??@@ ><$=;0=<=>>;<<=;;<>=>;;<==><<=: 7	&:9 !*3.-*  Fv/7 ?<///<ýýýý</<ý/ýý<‡.ÄüÄ‡.ÄüÄ...... .....10Ih¹  ?Iha°@RX87¹ ?ÿÀ8Y%# 547327632# '&5%&#"3"767632;2;'7”|þÿÊžÌ©…¹Ç—
+`i[þë‚cèÍY,–'Ar\l]^$#7kËvþhihç08)f„¬©UC)
+W …e›tÁ#g ::a@	b’ðhih  ÿæþ”[ & * „@;++@,%*)'%
+)()**'(()''(*)*''())*(()#	(
+	 
+Fv/7 ?<//ýý</ý‡.ÄüÄ‡.ÄüÄ....... ..10Ih¹ 
+ +Iha°@RX87¹ +ÿÀ8Y&+5327%&'&#"#"547632'789M›–Ryw[`²‡*Gœ&JM?˜6]œLƒµ þMhihudMK+”;‚:0A¹*F,ýphih  ÿæþ”‚` 2 6 ™@H77@8 653-(5456634453346563345564452 21  +& 4  Fv/7 ?<///ýýý</<ý‡.ÄüÄ‡.ÄüÄ......... ...10Ih¹  7Iha°@RX87¹ 7ÿÀ8Y%#"547+532767&'&#"#"54763276&;'7‚‚üW›’M|y[` NË,´ƒER@—9[‹\}¸	+x&„}þhihú%*`[!6”P)i	/"F¾/oV =þghih     ›ýÆ”1 : o@.;;@< $0: 7	&:9 !*3.-*  Fv/7 ?<///<ýýýý</<ý/ýý<.... ...10Ih¹  ;Iha°@RX87¹ ;ÿÀ8Y%# 547327632# '&5%&#"3"767632;2;”|þÿÊžÌ©…¹Ç—
+`i[þë‚cèÍY,–'Ar\l]^$#7kËvç08)f„¬©UC)
+W …e›tÁ#g ::a@	b’    ÿæ [ & Q@''@(%%
+#	
+	 
+Fv/7 ?</ýý</ý..... .10Ih¹ 
+ 'Iha°@RX87¹ 'ÿÀ8Y&+5327%&'&#"#"54763289M›–Ryw[`²‡*Gœ&JM?˜6]œLƒµ udMK+”;‚:0A¹*F, ÿæ ‚` 2 f@*33@4 -(2 21  +&   Fv/7 ?<//ýýý</<ý....... ..10Ih¹  3Iha°@RX87¹ 3ÿÀ8Y%#"547+532767&'&#"#"54763276&;‚‚üW›’M|y[` NË,´ƒER@—9[‹\}¸	+x&„}ú%*`[!6”P)i	/"F¾/oV =    ›ýÆ”ð : >  @K??@@ <$=;0;>;<<=>>;==><;<==>;;<>>;: 7	&:9 !*3.->  Fv/7 ?<///<ý/ýýý</<ý/ýý<‡.ÄüÄ‡.ÄüÄ...... ....10Ih¹  ?Iha°@RX87¹ ?ÿÀ8Y%# 547327632# '&5%&#"3"767632;2;'7”|þÿÊžÌ©…¹Ç—
+`i[þë‚cèÍY,–'Ar\l]^$#7kËvþIhihç08)f„¬©UC)
+W …e›tÁ#g ::a@	b’òhih   ÿæ % & * ‚@:++@,%()'%
+'*'(()**'))*('())*''(**'#	*
+	 
+Fv/7 ?<//ýý</ý‡.ÄüÄ‡.ÄüÄ....... ..10Ih¹ 
+ +Iha°@RX87¹ +ÿÀ8Y&+5327%&'&#"#"547632'789M›–Ryw[`²‡*Gœ&JM?˜6]œLƒµ þˆhhhudMK+”;‚:0A¹*F,0hih    ÿæ ‚% 2 6 —@G77@8 453-(3634456635564345563346632 21  &+6  Fv/7 ?<//ý/ýý</<ý‡.ÄüÄ‡.ÄüÄ......... ...10Ih¹  7Iha°@RX87¹ 7ÿÀ8Y%#"547+532767&'&#"#"54763276&;'7‚‚üW›’M|y[` NË,´ƒER@—9[‹\}¸	+x&„}þhhhú%*`[!6”P)i	/"F¾/oV ='hih   ›ÿùå $ U@%%@& $#$  		  Fv/7 ?<//ýý/ý..... ...10Ih¹  %Iha°@RX87¹ %ÿÀ8Y%#"'&'# 5476323 54767;å9H2,.=JŠþó(ÃŸ9	@o9h$.IR!)ÁAE+sk:gc—þÏœ     ›ÿùå„ $ ( ˆ@=))@* &$#'%$ %(%&&'((%''(&%&''(%%&((% 	(	  Fv/7 ?<//ýý/ý‡.ÄüÄ‡.ÄüÄ....... .....10Ih¹  )Iha°@RX87¹ )ÿÀ8Y%#"'&'# 5476323 54767;'7å9H2,.=JŠþó(ÃŸ9	@o9h$þ‚hih.IR!)ÁAE+sk:gc—þÏœ†hih  Eþ=  Q@  @!   	  Fv/7 ?<//ý</<ýý<.. .10Ih¹   Iha°@RX87¹  ÿÀ8Y%#"'#"'&54767654'767;6F$ue@’j#$–˜¢†;; <R(´§€‰~T‚xN/  Eþ  # „@;$$@% !"  # !!"## ""#! !""#  !##   #	  Fv/7 ?<//ý</<ýý<‡.ÄüÄ‡.ÄüÄ.... ...10Ih¹  $Iha°@RX87¹ $ÿÀ8Y%#"'#"'&54767654'767;'76F$ue@’j#$–˜¢†;; <R(õhhh´§€‰~T‚xN/hig    ›ý÷¥S K j@+LL@M 2K/+ !KJ 	8B%F>>  Fv/7 ?<//ý/ýý/<ý<ý</ý..... ...10Ih¹  LIha°@RX87¹ LÿÀ8Y%#"'#"'#"'#"'&54767632327676'&'&'763232767632327632;¥F5.|t.?v,3
+3©‘©¨lv+!9?S¨¾t
+e856LU&vŽƒJinrssNCS\¤WcG(	ua_E[D8B?@<‚jP5.O$ ¡˜&%–  ÿæ ó + W@",,@- %# !
+( Fv/7 ?<//<ý<ý</ý... 10Ih¹  ,Iha°@RX87¹ ,ÿÀ8Y#"'#"'+5327632327676323254'76325<m€8GmŒ/I~Yf‹’V$†’H:=rJUiiii”–%&•,J$#–E7[mo    ÿæ ·P ) \@&**@+ ) )(  $	  Fv/7 ?</<<ý<<ý<.... 10Ih¹  *Iha°@RX87¹ *ÿÀ8Y%#"'#"'#"'+5327632327632327632;·G4.|l:6tŒ/I~Yf‹’ŽrŽ…Jiiiiii”–%&••&%–•&%–    ›ý÷¥ª K O S W ÿ@„XX@Y WUSQM2VTRPNLK/+ LOLMMNOOLNNOPSPQQRSSPRRSTWTUUVWWTVVWMLMNNOLLMOOLQPQRRSPPQSSPUTUVVWTTUWWT!KJ 8B	%F>O  Fv/7 ?<///ý/ýý/<ý<ý</ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........... ........10Ih¹  XIha°@RX87¹ XÿÀ8Y%#"'#"'#"'#"'&54767632327676'&'&'763232767632327632;'7'7'7¥F5.|t.?v,3
+3©‘©¨lv+!9?S¨¾t
+e856LU&vŽƒJþ]_^Ñ^^]…]_^inrssNCS\¤WcG(	ua_E[D8B?@<‚jP5.O$ ¡˜&%–·^_]þÚ]^]^]^]    ÿæ  + / 3 7 î@|88@9 7531-(6420.,%,/,--.//,../212330112001474556774667-,-../,,-//,101223001330545667445774# !
+/ Fv/7 ?<//<ý<ý</ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ......... ......10Ih¹  8Iha°@RX87¹ 8ÿÀ8Y#"'#"'+5327632327676323254'7632'7'7'75<m€8GmŒ/I~Yf‹’V$†’H:=þÀ]^]Ò_^^…^_^rJUiiii”–%&•,J$#–E7[moF^_]þÚ^_]^^_]    ÿæ ·ª ) - 1 5 ñ@66@7 531/+420.,*) *-*++,--*,,-.1.//011.001252334552445+*+,,-**+--*/./001../11.323445223552)(  $-	  Fv/7 ?<//<<ý<<ý<‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ.......... .....10Ih¹  6Iha°@RX87¹ 6ÿÀ8Y%#"'#"'#"'+5327632327632327632;'7'7'7·G4.|l:6tŒ/I~Yf‹’ŽrŽ…Jþ]_^Ñ^^]…]_^iiiiii”–%&••&%–•&%–·^_]þÚ]^]^]^]  ›ýïÆ > ? K v@2LL@M :2.F>:+ 	'@84D4>= H!4?  Fv/7 ?<///ý/ýý<ýý/ý/ý/ý...... .....10Ih¹  LIha°@RX87¹ LÿÀ8Y%#"'#"'#"'&54767632327676'&'&'7632 3226;	4'&#"3276Æe£u„©yZ
+3©‘©¨lv+!9?S¨¾t
+c83OTÙY<?U]6úZÝ@8<²í68‚‰Ú$*yˆNCS\¤WcG(	ua_E[D8B;:)@~jX4s69WoR	ýZ9(#ó    ÿæ v  & X@!''@( ! #
+
+ Fv/7 ?<</ý<ýý/ý... ...10Ih¹  'Iha°@RX87¹ 'ÿÀ8Y#"'&'+5327632 324'&#"3276váãƒ7]'Fv54‘ldÐY<?]@8<´ê67ŒÚTÀV<Nu”“$$‡69¡9(#ó ÿæ â " . l@.//@0 	)" #'"! +  Fv/7 ?</ýý<ýý/ý...... ....10Ih¹  /Iha°@RX87¹ /ÿÀ8Y%#"'#"'&'+5327632 3226;'4'&#"3276âe„”„Ìƒ7]'Fv54‘ldÐY<?U]6É@8<´ê67ŒÚ+*Nu”“$$‡69WvTu9(#ó     ›ýïÆé > ? K O §@OPP@Q M:2.NLF>:+ LOLMMNOOLNNOMLMNNOLLMOOL	'@84D4>= H!O?  Fv/7 ?<///ý/ýý</ýý/ý/ý/ý‡.ÄüÄ‡.ÄüÄ........ ......10Ih¹  PIha°@RX87¹ PÿÀ8Y%#"'#"'#"'&54767632327676'&'&'7632 3226;	4'&#"3276'7Æe£u„©yZ
+3©‘©¨lv+!9?S¨¾t
+c83OTÙY<?U]6úZÝ@8<²í68‚‰Ú½hih$*yˆNCS\¤WcG(	ua_E[D8B;:)@~jX4s69WoR	ýZ9(#ó¾hih    ÿæ vé  & * ‰@>++@, ()'!'*'(()**'))*('())*''(**' #
+*
+ Fv/7 ?<</ý<ý/ý/ý‡.ÄüÄ‡.ÄüÄ..... ....10Ih¹  +Iha°@RX87¹ +ÿÀ8Y#"'&'+5327632 324'&#"3276'7váãƒ7]'Fv54‘ldÐY<?]@8<´ê67ŒÚÆhihTÀV<Nu”“$$‡69¡9(#óµhih ÿæ âé " . 2 @K33@4 0	1/)" /2/00122/1120/0112//022/#'"! +2  Fv/7 ?</ýý</ýý/ý‡.ÄüÄ‡.ÄüÄ........ .....10Ih¹  3Iha°@RX87¹ 3ÿÀ8Y%#"'#"'&'+5327632 3226;'4'&#"3276'7âe„”„Ìƒ7]'Fv54‘ldÐY<?U]6É@8<´ê67ŒÚÆhih+*Nu”“$$‡69WvTu9(#óµhih     ž  œ¸ 9 E x@3FF@G 5)$#@95)$! &'&:3//>B98  Fv/7 ?<</ý</ýý/ý/ý<ý......... .....10Ih¹  FIha°@RX87¹ FÿÀ8Y!#"'!"'&'&5432326'&''7672+276763226;'4'&#"3276œ5±‘¤þ¬=…5	]—8("[$	(#UiOn`<D\b5ÆI?BþÖSVq“Ô)'#y
+,&7RÑ@÷\HUþ§@ŠLŽPc2P.3]…Nt>+%ø	!    ÿæ é¸ ) 5 g@)66@7  0 * &.2 Fv/7 ?</ý<</ý/ý/ý<ý....... ...10Ih¹  6Iha°@RX87¹ 6ÿÀ8Y)53276'&''7672+27676324'&#"3276éæ¦þŠþÿ†="[$	(#UiOn`<DYI?BþÖSVq“Ô\ÓO9”<PÏ;÷\HUþ§@ŠLŽPc2P.3°>+%ø	! ÿæ  V¸ 1 = {@6>>@? -!81-! 2+''6:10   Fv/7 ?</ý</ýý/ý/ý<ý.......... ....10Ih¹  >Iha°@RX87¹ >ÿÀ8Y!#"')53276'&''7672+276763226;'4'&#"3276V5±‘¨þ°þÿ†="[$	(#UiOn`<D\b5ÆI?BþÖSVq“Ô)(”;PÏ;÷\HUþ§@ŠLŽPc2P.3]…Nt>+%ø	!  ž  œ¸ 9 E I «@QJJ@K IG5)$#HF@95)$! FIFGGHIIFHHIGFGHHIFFGIIF&'&:3//>B98  Fv/7 ?<</ý</ýý/ý/ý<ý‡.ÄüÄ‡.ÄüÄ........... .......10Ih¹  JIha°@RX87¹ JÿÀ8Y!#"'!"'&'&5432326'&''7672+276763226;'4'&#"3276'7œ5±‘¤þ¬=…5	]—8("[$	(#UiOn`<D\b5ÆI?BþÖSVq“Ô`hih)'#y
+,&7RÑ@÷\HUþ§@ŠLŽPc2P.3]…Nt>+%ø	!²hih  ÿæ é¸ ) 5 9 š@G::@; 97 860 696778996889767889667996* &.2 Fv/7 ?</ý<</ý/ý/ý<ý‡.ÄüÄ‡.ÄüÄ......... .....10Ih¹  :Iha°@RX87¹ :ÿÀ8Y)53276'&''7672+27676324'&#"3276'7éæ¦þŠþÿ†="[$	(#UiOn`<DYI?BþÖSVq“ÔXgih\ÓO9”<PÏ;÷\HUþ§@ŠLŽPc2P.3°>+%ø	!²hih   ÿæ  V¸ 1 = A ®@TBB@C A?-!@>81-! >A>??@AA>@@A?>?@@A>>?AA>2+''6:10   Fv/7 ?</ý</ýý/ý/ý<ý‡.ÄüÄ‡.ÄüÄ............ ......10Ih¹  BIha°@RX87¹ BÿÀ8Y!#"')53276'&''7672+276763226;'4'&#"3276'7V5±‘¨þ°þÿ†="[$	(#UiOn`<D\b5ÆI?BþÖSVq“ÔXgih)(”;PÏ;÷\HUþ§@ŠLŽPc2P.3]…Nt>+%ø	!²hih    ›ýÇ@; ) \@#**@+ )$"  )(    Fv/7 ?<//ý<ýý/ý....... .10Ih¹  *Iha°@RX87¹ *ÿÀ8Y%# '!27632!"'&54767.547632;@5þÚ·þÃÞª}	'…þüÍz“D?¡á‚<mb`Bá±·þØ''ƒN^Â®M_x	x†B[>$! ÿæ Å• ( U@))@*'%!'	 Fv/7 ?</ý<ý/ý..... ...10Ih¹  )Iha°@RX87¹ )ÿÀ8Y%+5327&547632#"'&#"32763½(þ£}EkCp]ly}R*`B8ITBQbêúw\&”
+XVLu‡x(#(2)@N@ ÿæ éú  X@"@ 
+    Fv/7 ?</ý<ý........ 10Ih¹  Iha°@RX87¹ ÿÀ8Y%#"'+5327&'&'&547632;éP¿cs¶h~>#&)	3¨ÕuA4'f~~”4")-	x…;f    ›ýÇ@ 4 8 @@99@: 67541-% 585667885778656778556885	+43 8  Fv/7 ?<//ý</ýý/ý‡.ÄüÄ‡.ÄüÄ......... ..10Ih¹  9Iha°@RX87¹ 9ÿÀ8Y%#"'&'!27632'&54767&'&'&'4767676;'7@5ø°$J*Èà¯xI;&o—Í{’Ç/Z-*";dá@3ìBþZhih¥()Š˜þØ'3).N^ÃØ®);!18(ˆ1:$ƒhih  ÿæ Å[ . 2 †@<33@4-0+&1/-
+/2/00122/1120/0112//022/"2 Fv/7 ?</ý</ý/ý‡.ÄüÄ‡.ÄüÄ....... ....10Ih¹  3Iha°@RX87¹ 3ÿÀ8Y%+5327&'&'&7632"'&'&'&2?672'7½(™™µƒEkI#7:}ŒP/;('6KSCOd.ufõhhhúw*)/”
+?;6W»x*$(2(AM"âhih ÿæ éé   $ ˆ@>%%@& "#! 
+	 !$!""#$$!##$"!"##$!!"$$! 
+ $	  	Fv/7 ?</ý<‡.ÄüÄ‡.ÄüÄ.......... ...10Ih¹ 	 %Iha°@RX87¹ %ÿÀ8Y%#"'&'+5327&'&'&'47632;'7éP˜m	!p˜h~€?#&'	1ªÔv<8*fþæhhh]!]”4")-
+x…<eëhih    ›ÿçë( , 6 : —@F;;@< 8597,) 7:7889::799:87899:778::73-',+ 0#:  Fv/7 ?<///ýýý</ý/ý/ý‡.ÄüÄ‡.ÄüÄ....... ....10Ih¹  ;Iha°@RX87¹ ;ÿÀ8Y%#"'!"'&54763232767&'&7676;'4&#"6'7ëQt@%·þáÄbF
+«TÁ W2@ADIT\1'R.v9ÐT''e‘yFhihM?&= f	P+‡+=eYdl^JfuCµ(k`'M;2¿hih   ÿæ 
+’  # ' Š@?((@) %&$$'$%%&''$&&'%$%&&'$$%''$  "' Fv/7 ?<//ýý</ý/ý/<ý‡.ÄüÄ‡.ÄüÄ..... ..10Ih¹  (Iha°@RX87¹ (ÿÀ8Y+53 7654'#"'&76324&#"'7
+&Yñ´HRX³2<^S@HaU<+8|6gihk4~7”k•gcwkyR=d6*Pahih ÿæ Ï(   / 3 ”@F44@5 120 
+ 030112330223101223001330!(,  %3
+	  
+Fv/7 ?<//ýý</ý/ý/ý‡.ÄüÄ‡.ÄüÄ........ .10Ih¹ 
+ 4Iha°@RX87¹ 4ÿÀ8Y%#"'&'+5327.547632;'4'&'&676'7ÏB>V_*+H]]]<–/+AL_\0%!%.ˆ3Ü&(,+_/)2.%)%hih ”Y$Pj|cLgC4µ.15X+/)$ # hih    ›ýþ
+a 0 ? C G Ò@lHH@I EAFDB@1@C@AABCC@BBCDGDEEFGGDFFGA@ABBC@@ACC@EDEFFGDDEGGD 0 '
+'8?=10/< 5+GC%$  
+Fv/7 ?<//</ýý<ý/ý/ýý</<ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ...... ...10Ih¹ 
+ HIha°@RX87¹ HÿÀ8Y%## 476767232767676'&'#"54763234'&'&;27'7'7
+†@¤‹¦þJ!(	5p_†¢|³(Á¦1<[bB2í2,:(7#NASbdcxccb©:ƒF;LLeQ4s^~E:$4p%%“ef|x[s8>68(1ibccdbcc   ÿæ 
+„    $ ( ¼@]))@* &"'%#!	!$!""#$$!##$%(%&&'((%''("!"##$!!"$$!&%&''(%%&((% ($ Fv/7 ?</</ýý</ý/ýý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ........ ...10Ih¹  )Iha°@RX87¹ )ÿÀ8Y+53 76'#"5476324&#"32'7'7
+&Yñ´IJ`´1;_S@HaU<*:{5‡cdcxbdck²7”k-•hbwlyQ=d6*RWcdcdcdc ÿæ Ï  ) - 1 Å@c22@3 /+&0.,*	 *-*++,--*,,-.1.//011.001+*+,,-**+--*/./001../11."
+	 1-  Fv/7 ?</</ýý</ý/ý‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ‡.ÄüÄ.......... ....10Ih¹  2Iha°@RX87¹ 2ÿÀ8Y%#"'&'+5327&547632;'4&#"676'7'7ÏB>V\-u¸]<’3HBM][1&W0†3ÜN,)b/+/)$/@ccbwcdc!P”8ZOk|cMfjFµ-hY)-*'	#›bccdbcc     ›þæ­ ) `@&**@+ ") & %)( 	#	  Fv/7 ?<//ýý</ý/ý/ýý<.. ..10Ih¹  *Iha°@RX87¹ *ÿÀ8Y%#"'#"'&5476323276''7;æ=c(6”€¤¤bpX*YO}|‰·f–!9t©‹H?FPž |
+iGyB;-<cf³ÐY8þ‹þ|    ÿæ H°  N@@ Fv/7 ?</ý</ý..... ..10Ih¹  Iha°@RX87¹ ÿÀ8Y++532'767@)6<nKD—Uùÿ þ,qEL”sœ§Q:   ÿæ óµ  ^@&@  	
+	   Fv/7 ?</ý</<ý<ý<ý<. .10Ih¹  Iha°@RX87¹ ÿÀ8Y%#"'+53254'7;ó4¦?=7>13Ÿm¦3z7# ”…»ý‡\ü£Ã  ›ýÇ!¥ . : i@*;;@< 3$"5 //. .- 9'  Fv/7 ?<///ýý</<ýýý...... .....10Ih¹  ;Iha°@RX87¹ ;ÿÀ8Y%#"'#"'&547&#"#"'&76767632763;4'&'32!=u>…mA5}9('</*&F>*	šEpaKþÞOƒ )PK4+ÈxbxAþÉ˜Jh%1R&C;RŠ.JŒ5Hq&#YDX   ÿæÿü•è  ! S@""@#   
+
+ Fv/7 ?<//ý<ýý..... .10Ih¹  "Iha°@RX87¹ "ÿÀ8Y#"'+5327676324'&#"32•.8f¼:2IE[VA S?B];+F*/89M ª/ ÿ_AcƒE'”X.uX^E¤8BJu#M    ÿæÿÍ¯²  ' _@&((@) 	" &    Fv/7 ?<//ý<ýý...... ..10Ih¹  (Iha°@RX87¹ (ÿÀ8Y%#"'#"'&'+532767632;6'&#"¯SZ_5C>oc(ZeNRXR3ID;I<O=PSþ§',ABLX_:jž?8-p”J:OJJ&cJ*:CLb.2    ›ý÷¦ 1 5 Œ@?66@7 3,421)% 25233455244532344522355210 5  Fv/7 ?<//ýý</ý‡.ÄüÄ‡.ÄüÄ......... ....10Ih¹  6Iha°@RX87¹ 6ÿÀ8Y%#"'#"'&54767632327676'&'&'7632;'7@^2¯’¬¨lv+!9?S¨¾’x
+d9bhcýËhih47X9OBS\¤WcG(	ua_E[D8B@>!@~j—¨hih    ÿæ L¯   |@7@ 	   Fv/7 ?</ý</ýý<‡.ÄüÄ‡.<?xml version="1.0" encoding="UTF-8"?>
+<game name="huang_jin_dao">
+  <language name="ar_AE" translation="">
+    <setting name="Display Mode" translation="ÙˆØ¶Ø¹ Ø§Ù„Ø¹Ø±Ø¶">
+      <value name="Full-screen" translation="Ø´Ø§Ø´Ø© ÙƒØ§Ù…Ù„Ø©" />
+      <value name="Windowed" translation="Ù…Ø²ÙˆØ¯ Ø¨Ø¥Ø·Ø§Ø±Ø§Øª" />
+    </setting>
+    <setting name="Resolution" translation="Ø§Ù„Ø¯Ù‚Ø©" />
+  </language>
+  <language name="cs_CZ" translation="">
+    <setting name="Display Mode" translation="ReÅ¾im zobrazenÃ­">
+      <value name="Full-screen" translation="CelÃ¡ obrazovka" />
+      <value name="Windowed" translation="V oknÄ›" />
+    </setting>
+    <setting name="Resolution" translation="RozliÅ¡enÃ­" />
+  </language>
+  <language name="da_DK" translation="">
+    <setting name="Display Mode" translation="SkÃ¦rmtilstand">
+      <value name="Full-screen" translation="Fuld skÃ¦rm" />
+      <value name="Windowed" translation="Vinduesopdelt" />
+    </setting>
+    <setting name="Resolution" translation="OplÃ¸sning" />
+  </language>
+  <language name="de_DE" translation="">
+    <setting name="Display Mode" translation="Anzeigemodus">
+      <value name="Full-screen" translation="Ganzer Bildschirm" />
+      <value name="Windowed" translation="Fenster" />
+    </setting>
+    <setting name="Resolution" translation="AuflÃ¶sung" />
+  </language>
+  <language name="el_GR" translation="">
+    <setting name="Display Mode" translation="Î›ÎµÎ¹Ï„Î¿Ï…ÏÎ³Î¯Î± Î¿Î¸ÏŒÎ½Î·Ï‚">
+      <value name="Full-screen" translation="Î Î»Î®ÏÎ·Ï‚ Î¿Î¸ÏŒÎ½Î·" />
+      <value name="Windowed" translation="ÎœÎµ Ï€Î±ÏÎ¬Î¸Ï…ÏÎ±" />
+    </setting>
+    <setting name="Resolution" translation="Î‘Î½Î¬Î»Ï…ÏƒÎ·" />
+  </language>
+  <language name="en_GB" translation="">
+    <setting name="Display Mode" translation="Display Mode">
+      <value name="Full-screen" translation="Full-screen" />
+      <value name="Windowed" translation="Windowed" />
+    </setting>
+    <setting name="Resolution" translation="Resolution" />
+  </language>
+  <language name="en_US" translation="">
+    <setting name="Display Mode" translation="Display Mode">
+      <value name="Full-screen" translation="Full-screen" />
+      <value name="Windowed" translation="Windowed" />
+    </setting>
+    <setting name="Resolution" translation="Resolution" />
+  </language>
+  <language name="es_ES" translation="">
+    <setting name="Display Mode" translation="Modo de pantalla">
+      <value name="Full-screen" translation="Pantalla completa" />
+      <value name="Windowed" translation="En ventana" />
+    </setting>
+    <setting name="Resolution" translation="ResoluciÃ³n" />
+  </language>
+  <language name="es_MX" translation="">
+    <setting name="Display Mode" translation="Modo de pantalla">
+      <value name="Full-screen" translation="Pantalla completa" />
+      <value name="Windowed" translation="En ventana" />
+    </setting>
+    <setting name="Resolution" translation="ResoluciÃ³n" />
+  </language>
+  <language name="fi_FI" translation="">
+    <setting name="Display Mode" translation="NÃ¤yttÃ¶tila">
+      <value name="Full-screen" translation="KokonÃ¤yttÃ¶" />
+      <value name="Windowed" translation="Ikkuna" />
+    </setting>
+    <setting name="Resolution" translation="Tarkkuus" />
+  </language>
+  <language name="fr_FR" translation="">
+    <setting name="Display Mode" translation="Mode d'affichage">
+      <value name="Full-screen" translation="Plein Ã©cran" />
+      <value name="Windowed" translation="FenÃªtrÃ©" />
+    </setting>
+    <setting name="Resolution" translation="RÃ©solution" />
+  </language>
+  <language name="he_IL" translation="">
+    <setting name="Display Mode" translation="×ž×¦×‘ ×ª×¦×•×’×”">
+      <value name="Full-screen" translation="×‘×ž×œ×•× ×©×˜×— ×”×¦×’" />
+      <value name="Windowed" translation="×ª×¦×•×’×” ×‘×—×œ×•×Ÿ" />
+    </setting>
+    <setting name="Resolution" translation="×¨×–×•×œ×•×¦×™×”" />
+  </language>
+  <language name="hu_HU" translation="">
+    <setting name="Display Mode" translation="MegjelenÃ­tÃ©si mÃ³d">
+      <value name="Full-screen" translation="Teljes kÃ©pernyÅ‘s" />
+      <value name="Windowed" translation="Ablakos" />
+    </setting>
+    <setting name="Resolution" translation="FelbontÃ¡s" />
+  </language>
+  <language name="it_IT" translation="">
+    <setting name="Display Mode" translation="ModalitÃ  di visualizzazione">
+      <value name="Full-screen" translation="Schermo intero" />
+      <value name="Windowed" translation="A finestra" />
+    </setting>
+    <setting name="Resolution" translation="Risoluzione" />
+  </language>
+  <language name="ja_JP" translation="">
+    <setting name="Display Mode" translation="ãƒ‡ã‚£ã‚¹ãƒ—ãƒ¬ã‚¤ ãƒ¢ãƒ¼ãƒ‰">
+      <value name="Full-screen" translation="ãƒ•ãƒ«ã‚¹ã‚¯ãƒªãƒ¼ãƒ³" />
+      <value name="Windowed" translation="ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦è¡¨ç¤º" />
+    </setting>
+    <setting name="Resolution" translation="è§£åƒåº¦" />
+  </language>
+  <language name="ko_KR" translation="">
+    <setting name="Display Mode" translation="ë””ìŠ¤í”Œë ˆì´ ëª¨ë“œ">
+      <value name="Full-screen" translation="ì „ì²´ í™”ë©´" />
+      <value name="Windowed" translation="ì°½" />
+    </setting>
+    <setting name="Resolution" translation="í•´ìƒë„" />
+  </language>
+  <language name="nb_NO" translation="">
+    <setting name="Display Mode" translation="Skjermmodus">
+      <value name="Full-screen" translation="Full skjerm" />
+      <value name="Windowed" translation="Vindusmodus" />
+    </setting>
+    <setting name="Resolution" translation="OpplÃ¸sning" />
+  </language>
+  <language name="nl_NL" translation="">
+    <setting name="Display Mode" translation="Beeldschermmodus">
+      <value name="Full-screen" translation="Volledig scherm" />
+      <value name="Windowed" translation="In venster" />
+    </setting>
+    <setting name="Resolution" translation="Resolutie" />
+  </language>
+  <language name="pl_PL" translation="">
+    <setting name="Display Mode" translation="Tryb wyÅ›wietlania">
+      <value name="Full-screen" translation="PeÅ‚ny ekran" />
+      <value name="Windowed" translation="Okienkowy" />
+    </setting>
+    <setting name="Resolution" translation="RozdzielczoÅ›Ä‡" />
+  </language>
+  <language name="pt_BR" translation="">
+    <setting name="Display Mode" translation="Modo de video">
+      <value name="Full-screen" translation="Tela inteira" />
+      <value name="Windowed" translation="Em Janelas" />
+    </setting>
+    <setting name="Resolution" translation="ResoluÃ§Ã£o" />
+  </language>
+  <language name="pt_PT" translation="">
+    <setting name="Display Mode" translation="Modo de visualizaÃ§Ã£o">
+      <value name="Full-screen" translation="EcrÃ£ inteiro" />
+      <value name="Windowed" translation="Modo de janela" />
+    </setting>
+    <setting name="Resolution" translation="ResoluÃ§Ã£o" />
+  </language>
+  <language name="ru_RU" translation="">
+    <setting name="Display Mode" translation="Ð­ÐºÑ€Ð°Ð½Ð½Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼">
+      <value name="Full-screen" translation="ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ ÑÐºÑ€Ð°Ð½" />
+      <value name="Windowed" translation="Ð’ Ð¾ÐºÐ½Ðµ" />
+    </setting>
+    <setting name="Resolution" translation="Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ðµ" />
+  </language>
+  <language name="sk_SK" translation="">
+    <setting name="Display Mode" translation="ReÅ¾im zobrazenia">
+      <value name="Full-screen" translation="Na celÃº obrazovku" />
+      <value name="Windowed" translation="V okne" />
+    </setting>
+    <setting name="Resolution" translation="RozlÃ­Å¡enie" />
+  </language>
+  <language name="sl_SI" translation="">
+    <setting name="Display Mode" translation="Zaslonski naÄin">
+      <value name="Full-screen" translation="Celoten zaslon" />
+      <value name="Windowed" translation="V oknu" />
+    </setting>
+    <setting name="Resolution" translation="LoÄljivost" />
+  </language>
+  <language name="sv_SE" translation="">
+    <setting name="Display Mode" translation="VisningslÃ¤ge">
+      <value name="Full-screen" translation="HelskÃ¤rm" />
+      <value name="Windowed" translation="I fÃ¶nster" />
+    </setting>
+    <setting name="Resolution" translation="UpplÃ¶sning" />
+  </language>
+  <language name="th_TH" translation="">
+    <setting name="Display Mode" translation="à¹‚à¸«à¸¡à¸”à¸à¸²à¸£à¹à¸ªà¸”à¸‡à¸œà¸¥">
+      <value name="Full-screen" translation="à¹€à¸•à¹‡à¸¡à¸«à¸™à¹‰à¸²à¸ˆà¸­" />
+      <value name="Windowed" translation="à¹à¸šà¸šà¸«à¸™à¹‰à¸²à¸•à¹ˆà¸²à¸‡" />
+    </setting>
+    <setting name="Resolution" translation="à¸„à¸§à¸²à¸¡à¸¥à¸°à¹€à¸­à¸µà¸¢à¸”" />
+  </language>
+  <language name="tr_TR" translation="">
+    <s

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="4.0" method="upgrade">
+  <name>LOGREGSMS</name>
+  <creationDate>04-JUNE-2019</creationDate>
+  <author>Mohammad Hosein Miri</author>
+  <authorEmail>miri.mohamadhosein@gmail.com</authorEmail>
+  <authorUrl>www.joominamarket.com</authorUrl>
+  <copyright>JoominaMarket.Com</copyright>
+  <license/>
+  <version>2.0</version>
+  <description>سیستم لاگین و ثبت نام پیامکی جومینا - برنامه نویس: محمدحسین میری (www.joominamarket.com)</description>
+  <scriptfile>sql/script.php</scriptfile>
+  
+  <install>
+    <sql>
+      <file driver="mysql" charset="utf8">sql/install/install.utf8.sql</file>
+    </sql>
+  </install>
+  
+  <uninstall>
+    <sql>
+      <file driver="mysql" charset="utf8">sql/uninstall/uninstall.utf8.sql</file>
+    </sql>
+  </uninstall>
+  
+  <update>
+	<schemas>
+		<schemapath type="mysql">sql/updates</schemapath>
+	</schemas>
+  </update>
+  
+	<!--<updateservers>
+		<server type="extension" priority="1" name=""></server>
+	</updateservers>-->
+	
+  <files folder="frontend">
+    <folder>assets</folder>
+    <folder>controllers</folder>
+    <folder>models</folder>
+    <folder>views</folder>
+    <filename>controller.php</filename>
+    <filename>router.php</filename>
+    <filename>message_popup.php</filename>
+    <filename>logregsms.php</filename>
+  </files>
+  
+  <languages folder="languages/frontend">
+	<language tag="fa-IR">fa-IR/fa-IR.com_logregsms.ini</language>
+  </languages>
+	
+  <administration>
+    <menu>LOGREGSMS</menu>
+    <submenu>
+      <menu link="option=com_logregsms">COM_LOGREGSMS_SMSARCHIVES</menu>
+      <menu view="help">COM_LOGREGSMS_HELP</menu>
+		</submenu>
+    <files folder="backend">
+      <folder>assets</folder>
+      <folder>controllers</folder>
+      <folder>classes</folder>
+      <folder>helpers</folder>
+      <folder>sql</folder>
+      <folder>models</folder>
+      <folder>tables</folder>
+      <folder>views</folder>
+      <filename>CHANGELOG.php</filename>
+      <filename>access.xml</filename>
+      <filename>config.xml</filename>
+      <filename>controller.php</filename>
+      <filename>logregsms.php</filename>
+    </files>
+    
+    <languages folder="languages/backend">
+		<language tag="fa-IR">fa-IR/fa-IR.com_logregsms.ini</language>
+		<language tag="fa-IR">fa-IR/fa-IR.com_logregsms.sys.ini</language>
+	</languages>
+		
+  </administration>
+</extension>

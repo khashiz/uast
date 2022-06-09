@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+/**
+ * @package    logregsms
+ * @subpackage CSS
+ * @author     Mohammad Hosein Mir {@link https://joomina.ir}
+ * @author     Created on 22-Feb-2019
+ * @license    GNU/GPL
+ */
+
+.mod_logreg {
+    background: #fff;
+    border-radius: 5px;
+   }
+#can_send .btn {
+    background: #f0ad4e !important;
+    margin: 0 10px 0 0 !important;
+}
+#logregsms .btn{
+    padding: 10px !important;
+}
+#step2form .btn.btn-warning {
+    background: #f0ad4e !important;
+}

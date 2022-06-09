@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="system" method="upgrade">
+	<name>بستن لاگین و ثبت نام جوملا - جومینا مارکت</name>
+	<author>JoominaMarket Team</author>
+	<creationDate>11 October 2018</creationDate>
+	<copyright>Copyright (C) 2005 - 2014 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>sale@joominamarket.com</authorEmail>
+	<authorUrl>www.joominamarket.com</authorUrl>
+	<version>2.0</version>
+	 <description>اگر این پلاگین فعال شود ، صفحات ثبت نام و لاگین جوملا بسته خواهد شد و اگر کاربری بخواهد به این 2 صفحه ورود کند بصورت خودکار به کامپوننت ثبت نام پیامکی هدایت خواهد شد</description>
+	<files>
+		<filename plugin="bandjoomlalogreg">bandjoomlalogreg.php</filename>
+	</files> 
+</extension>

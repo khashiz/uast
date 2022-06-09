@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <fieldset name="component" label="تنظیمات پیامک" description="">
+			
+        <field name="resend" default="1" type="text" label="مدت زمان ارسال مجدد پیامک (برحسب دقیقه)"  />
+			<field name="load_bootstrap" type="radio" default="0" label="فراخوانی CSS بوت استرپ" description="" class="btn-group">
+				<option value="0">خیر</option>
+				<option value="1">بلی</option>
+			</field>
+			
+			<field name="username" type="text" default="" label="نام کاربری پنل" description="" />
+			<field name="password" type="text" default="" label="کلمه عبور پنل" description="" />
+			<field name="line" type="text" default="" label="شماره خط پنل" description="" />
+			<field name="reseller" type="text" default="api.payamak-panel.com" label="دامنه نماینده شما" description="لطفا بدون http وارد کنید" />
+			<field type="spacer" name="safsdf" label="در حال حاضر سرویس پیامک این کامپوننت به شرکت فراپیامک و پیامک ایرانیان (IR-Payamak.com) و زیر نماینده های آنها متصل می باشد. لطفا نام دامنه نماینده خود را در قسمت بالا وارد کنید." />
+			
+			<field type="spacer" name="safsdfsdfsdf" hr="true" />
+			
+			<field name="smstext" type="textarea" default="کد تاییدیه شما: {code}" label="متن پیامک" description="متن پیامک در هنگام ارسال کد تاییدیه" />
+			<field type="spacer" name="sadsffsdf" label="{code} : کد تاییدیه" />
+            
+			<field name="is_email_required" type="list" default="1" label="فیلد ایمیل در فرم" description="">
+				<option value="1">ضروری</option>
+				<option value="2">غیر ضروری</option>
+				<option value="3">غیر ضروری و پنهان شده</option>
+			</field>
+			
+			<field name="after_login" type="menuitem" default="" label="هدایت بعد از لاگین موفق" description="مشخص کنید که کاربر بعد از لاگین موفق به کجا هدایت شود. در صورتی که گزینه ای انتخاب نشود به صفحه پروفایل کاربران هدایت خواهد شد. در صورتی که گزینه 'آخرین صفحه قبل از لاگین/ثبت نام' انتخاب شود، کاربر به آخرین صفحه ای که قبل از لاگین یا ثبت نام قرار داشته است هدایت خواهد شد.">
+				<option value=""> - هیچ - </option>
+				<option value="last"> - آخرین صفحه قبل از لاگین/ثبت نام - </option>
+			</field>
+			
+			<field name="shareservice" type="radio" default="0" label="استفاده از خط خدماتی" description="" class="btn-group">
+				<option value="0">خیر</option>
+				<option value="1">بلی</option>
+			</field>
+			<field name="shareservice_sms_text" type="text" default="" label=" کد متن تایید شده پیامک اشتراکی  " />
+    </fieldset>
+
+    <fieldset
+            name="permissions"
+            label="JCONFIG_PERMISSIONS_LABEL"
+            description="JCONFIG_PERMISSIONS_DESC"
+            >
+
+        <field
+                name="rules"
+                type="rules"
+                label="JCONFIG_PERMISSIONS_LABEL"
+                class="inputbox"
+                filter="rules"
+                validate="rules"
+                component="com_logregsms"
+                section="component"/>
+    </fieldset>
+</config>

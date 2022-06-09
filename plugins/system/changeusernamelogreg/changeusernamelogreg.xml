@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="system" method="upgrade">
+	<name>تغییر نام کاربری - جومینا مارکت</name>
+	<author>JoominaMarket Team</author>
+	<creationDate>11 October 2018</creationDate>
+	<copyright>Copyright (C) 2005 - 2014 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>sale@joominamarket.com</authorEmail>
+	<authorUrl>www.joominamarket.com</authorUrl>
+	<version>2.0</version>
+	 <description>اگر این پلاگین فعال باشد ، کاربرانی که قبل از نصب ثبت نام و لاگین پیامکی در جوملای شما ثبت نام شده باشند قابلیت اصلاح اطلاعات وجود خواهد داشت. بدین صورت که فرض کنید یک کاربر قبل از راه اندازی سیستم ثبت نام پیامکی با یک نام کاربری به غیر از شماره موبایل خود در سیستم ثبت شده است. همان طور که می دانید این سیستم بدین صورت عمل می کند که شماره موبایل کاربر را ، نام کاربری وی قرار می دهد فلذا در هنگام لاگین، سیستم به دنبال نام کاربری ای میگردد که یوزر در مرحله اول به عنوان شماره موبایل وارد کرده است و اگر پیدا نکند کاربر را به صفحه فرم ثبت نام هدایت می کند. اگر این پلاگین فعال باشد و گزینه ایمیل هم در تنظیمات فعال شده باشد ، در هنگام ثبت نام سیستم به دنبال ایمیل کاربر میگردد و اگر ایمیل مشابه را در پایگاه داده پیدا کند ، نام کاربری وی را به شماره موبایلش تغییر می دهد و همان لحظه یوزر را لاگین می کند. از آن لحظه به بعد کاربر با زدن شماره موبایل خود بی درنگ به سیستم لاگین می شود چرا که نام کاربری اش به شماره موبایل اش تغییر پیدا کرده است. توجه کنید که این قابلیت زمانی کاربرد خواهد داشت که فیلد ایمیل در تنظیمات فعال شده باشد چون اگر فعال نباشد یک ایمیل رندوم ساخته خواهد شد</description>
+	<files>
+		<filename plugin="changeusernamelogreg">changeusernamelogreg.php</filename>
+	</files> 
+</extension>

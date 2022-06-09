@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension client="site" type="language" method="upgrade">
+	<name>Persian (fa-IR)</name>
+	<tag>fa-IR</tag>
+	<version>4.1.4.1</version>
+	<creationDate>May 2022</creationDate>
+	<author>Persian Translation Team</author>
+	<authorEmail>info@joomlafarsi.com</authorEmail>
+	<authorUrl>www.joomlafarsi.com</authorUrl>
+	<copyright>Copyright (C) 2005 - 2022 Joomlafarsi.com and Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>fa-IR site language</description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">install.xml</filename>
+	</files>
+
+	<media destination="fa-IR">
+		<filename>js/calendar-setup.js</filename>
+		<filename>js/calendar.js</filename>
+		<filename>js/calendar-setup-uncompressed.js</filename>
+		<filename>js/calendar-uncompressed.js</filename>
+	</media>
+	<params/>
+</extension>
